@@ -12,5 +12,5 @@ with col2:
   st.write("Corgi Dogs are cute")
 with col3:
   st.subheader("dog gif")
-  st.image("https://media0.giphy.com/media/26nYUhsyO8vCQUPn8g/200w.gif?cid=82a1493b4esw0mqeqwxctz3tmlbzsts16isz5fkp0stdfp9h&ep=v1_gifs_related&rid=200w.gif&ct=g",caption="Pomerian Dog",width=100,use_column_width=True)
+  st.image("https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fgifs%2Fyazagames-dog-smile-doggo-euonSH7C2cpguxPfzt&psig=AOvVaw1Q_y_RCL5mSiJmu_-eJgZb&ust=1704783899662000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJCwoo2dzYMDFQAAAAAdAAAAABAK",caption="dog running",width=100,use_column_width=True)
   st.write("dog running") 
